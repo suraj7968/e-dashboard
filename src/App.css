@@ -26,7 +26,10 @@
 .register
 {
   margin-left: 30%;
-  
+}
+
+.login{
+  margin-left: 30%;
 }
 .InputBox{
   display: block;
